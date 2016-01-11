@@ -1,6 +1,8 @@
 Django is a high-level Python Web framework that encourages rapid development
 and clean, pragmatic design. Thanks for checking it out.
+
 Django是一个促进快速，清洁实用设计的开发高可用的pythonweb框架
+
 All documentation is in the "docs" directory and online at
 https://docs.djangoproject.com/en/stable/. If you're just getting started,
 here's how we recommend you read the docs:
